@@ -27,6 +27,6 @@ I'm a Software Developer with a focus on Web Application Development, Software D
 ## Contact
 
 Feel free to connect with me on:
-- [LinkedIn](www.linkedin.com/in/omkar-morbale-243b23215)
+- [LinkedIn]([www.linkedin.com/in/omkar-morbale-243b23215](https://www.linkedin.com/in/omkar-morbale43/))
 - [GitHub](https://github.com/OmMorbale)
 - [Email](omkarmorbale3@gmail.com)
