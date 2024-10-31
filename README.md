@@ -1,6 +1,6 @@
  # My Portfolio
 
-Welcome to my portfolio! This repository showcases some of the key projects I've worked on, with documentation and code samples for each. Each project includes an overview, key features, and highlights of my contributions.
+Welcome to my portfolio! This repository showcases some of the key projects I've worked on during my current job, with documentation and code samples for each. Each project includes an overview, key features, and highlights of my contributions.
 
 ## Projects
 
