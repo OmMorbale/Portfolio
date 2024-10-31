@@ -1,5 +1,4 @@
  
- 
 # CSI (Customer Statisfaction Index) Portal
 ## Overview
 The user has several Roles like Project Manager and Delivery Manager having full control of application to add, update, delete User, Client and Project. Other users can generate survey and submit it according to their evaluation.
@@ -10,7 +9,7 @@ The user has several Roles like Project Manager and Delivery Manager having full
 - **Handled part of Windows service which is responsible for sending PDF through Email to desired recepient.**
 
 ## Technologies Used
-- **Frontend**: Angular
+- **Frontend**: Angular, HTML, CSS
 - **Backend**: .NET (MVC Repository)
 - **Database**: MSSQL Server.
 - **Other Libraries**: PrimeNG for better UI development, html2pdf to covert HTML page to PDF.

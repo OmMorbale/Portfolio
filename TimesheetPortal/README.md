@@ -10,7 +10,7 @@ This is a timesheet management portal designed to log billable and non-billable 
 - **Implemented backend logic using Repository Pattern** (Kept Data access and Business logic separate)
 
 ## Technologies Used
-- **Frontend**: Angular
+- **Frontend**: Angular, HTML, CSS
 - **Backend**: .NET (MVC Repository Pattern)
 - **Database**: MSSQL Server.
 - **Other Libraries**: PrimeNG for better UI development.
